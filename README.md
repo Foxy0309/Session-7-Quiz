@@ -6,7 +6,7 @@ The output produced will be as follows:
 
 Option 1:
 
-<img width="173" alt="quiz21" src="https://user-images.githubusercontent.com/126550095/229835984-54dcd24f-5500-4e2d-8838-9b7aba1520d2.png">
+<img width="345" alt="quiz21" src="https://user-images.githubusercontent.com/126550095/229835984-54dcd24f-5500-4e2d-8838-9b7aba1520d2.png">
 
 Option 2:
 
@@ -14,4 +14,8 @@ Option 2:
 
 Option 3:
 
-<img width="282" alt="quiz23" src="https://user-images.githubusercontent.com/126550095/229836091-e2ff2987-ec46-4323-8dd1-29692e2686e9.png">
+<img width="345" alt="quiz23" src="https://user-images.githubusercontent.com/126550095/229836091-e2ff2987-ec46-4323-8dd1-29692e2686e9.png">
+
+Option 4 (In case of invalid input number):
+
+  <img width="345" alt="quiz24" src="https://user-images.githubusercontent.com/126550095/229837774-d0c3e122-2780-4ca9-ab18-568c008c4962.png">
